@@ -26,15 +26,14 @@ plainwhite:
     #linkedIn: dalimzzang94.tistory.com
       #pinterest: dalimzzang94.tistory.com
   
-     # rss: rss
-    # dribbble: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-
-    # youtube: jekyll
-    # facebook: jekyll
-    # soundcloud: jekyll
-    # telegram: jekyll
+     rss: rss
+    dribbble: jekyll
+    flickr:   jekyll
+    instagram: jekyll
+    youtube: jekyll
+    facebook: jekyll
+    soundcloud: jekyll
+    telegram: jekyll
 
     # Mastodon instances
     # mastodon:
