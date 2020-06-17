@@ -21,9 +21,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    #tstory: https://dalimzzang94.tistory.com
+    twitter: dalimzzang94.tistory.com
     github:  JeongDalim
-    linkedIn: dalimzzang94.tistory.com
+    #linkedIn: dalimzzang94.tistory.com
       #pinterest: dalimzzang94.tistory.com
   
      # rss: rss
